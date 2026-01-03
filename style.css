@@ -1,0 +1,15 @@
+* {
+    font-family: arial,sans-serif;
+}
+p{
+    color: blue;
+}
+.box {
+    background-color: aqua;
+    padding: 10px;
+}
+
+#main-heading {
+    color: red;
+    text-align: center;
+}
